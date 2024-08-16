@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-✨Welcome to My Personal Repository✨
+## ✨Welcome to My Personal Repository✨
 
 My Name is Muhammad Haekal Sutrisna
 - 🔭 I’m currently working as Software Developer - 
