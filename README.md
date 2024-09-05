@@ -9,3 +9,5 @@ My Name is Muhammad Haekal Sutrisna
 ## My Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,mysql,mongodb,nodejs,react,express,figma,php)](https://skillicons.dev)
 
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haekalsutrisna)](https://github.com/haekalsutrisna/github-readme-stats)
