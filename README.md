@@ -10,4 +10,5 @@ My Name is Muhammad Haekal Sutrisna
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,mysql,mongodb,postgres,py,nodejs,react,express,figma,php)](https://skillicons.dev)
 
 ## My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haekalsutrisna&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haekalsutrisna&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=haekalsutrisna&show_icons=true&theme=tokyonight" width="48%"> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haekalsutrisna&layout=compact&theme=tokyonight" width="36.5%">
+
