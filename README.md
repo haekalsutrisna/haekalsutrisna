@@ -13,7 +13,7 @@ My Name is Muhammad Haekal Sutrisna
 
 <a href="mailto:haekalsutrisna18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haekalsutrisna/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://haekalsutrisna.github.io)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://haekalsutrisna.vercel.app/)
 
 ## 🕹️My Stats
 <img src="https://github-readme-stats.vercel.app/api?username=haekalsutrisna&show_icons=true&theme=tokyonight" width="48%"> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haekalsutrisna&layout=compact&theme=tokyonight" width="36.5%">
