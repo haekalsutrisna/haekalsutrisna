@@ -16,5 +16,5 @@ My Name is Muhammad Haekal Sutrisna
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://haekalsutrisna.vercel.app/)
 
 ## 🕹️My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=haekalsutrisna&show_icons=true&theme=tokyonight" width="48%"> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haekalsutrisna&layout=compact&theme=tokyonight" width="36.5%">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=haekalsutrisna&show_icons=true&theme=tokyonight" width="48%"> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haekalsutrisna&layout=compact&theme=tokyonight" width="36.5%"> -->
 
