@@ -7,7 +7,7 @@ My Name is Muhammad Haekal Sutrisna
 - 🔭 I’m currently working as Software Engineer If you want to get more information about me, please kindly follow my [Linkedin](https://linkedin.com/in/haekalsutrisna/)
   
 ## 👨‍💻My Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=js,laravel,jquery,nodejs,react,express,php,mongodb,mysql,postgres,py,vercel,netlify,figma,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=gcp,azure,js,laravel,jquery,nodejs,react,express,php,mongodb,mysql,postgres,py,vercel,netlify,figma,git)](https://skillicons.dev) 
 
 ## 🔎 You can find me on:
 
